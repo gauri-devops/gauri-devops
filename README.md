@@ -99,7 +99,3 @@ Invoice generator, task manager, boilerplate APIs.
 
 <h3 align="center">✨ gauri-devops — Your DevOps & Full-Stack Partner</h3>
 
-
-
-## 📂 Repository Structure (Recommended)
-
